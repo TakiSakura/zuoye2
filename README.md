@@ -33,7 +33,7 @@ void setFish(Fish s) {
 taihu.setFish(niqiu);
         xihu.setFish(niqiu);
 ```
-## 五、运行截图\
+## 五、运行截图
 ![截图](https://github.com/TakiSakura/zuoye2/blob/460651cae412437f8c2cacae3e1ff4779a0154ab/%E6%88%AA%E5%B1%8F2021-11-01%20%E4%B8%8A%E5%8D%8812.30.07.png)
 ##六、感想与体会
 这次对传值影响的作业，加深了我对方法的理解，也明白了java中传值的机制
